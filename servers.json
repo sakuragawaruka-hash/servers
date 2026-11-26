@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "name": "Anisette v3",
+      "identifier": "com.sakuragawaruka.anisette-v3",
+      "url": "https://anisette-v3-l669.onrender.com"
+    }
+  ]
+}
